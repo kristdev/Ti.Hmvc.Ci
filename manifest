@@ -1,0 +1,21 @@
+#appname:Ti.Hmvc.Ci
+#appid:com.kristdev.com.TiHmvcCi
+#publisher:SEMPAI
+#image:efigi_web.png
+#url:http://github.com/kristdev/Ti.Hmvc.Ci
+#guid:f640f07d-3323-43f5-b736-1c1a3599e4a9
+#desc:Hmvc Codeigniter project operationel
+#type:desktop
+runtime:1.3.1-beta
+app:1.3.1-beta
+codec:1.3.1-beta
+database:1.3.1-beta
+filesystem:1.3.1-beta
+media:1.3.1-beta
+monkey:1.3.1-beta
+network:1.3.1-beta
+platform:1.3.1-beta
+process:1.3.1-beta
+ui:1.3.1-beta
+worker:1.3.1-beta
+php:1.3.1-beta
